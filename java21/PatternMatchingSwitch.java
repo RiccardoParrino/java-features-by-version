@@ -1,5 +1,3 @@
-import javax.accessibility.AccessibleAction;
-
 public class PatternMatchingSwitch {
 
     public static void main(String[] args) {
