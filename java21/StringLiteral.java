@@ -14,8 +14,8 @@ class SimpleExample {
 
     public static void example() {
         String name = "Riccardo";
-        String welcomeText = STR."Welcome from \{name}";
-        System.out.println(welcomeText);
+        // String welcomeText = STR."Welcome from \{name}";
+        // System.out.println(welcomeText);
     }
 
 }
