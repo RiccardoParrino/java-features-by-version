@@ -1,0 +1,10 @@
+# Java 12: New Features (19 March 2019)
+
+- Shenandoah: A Low-Pause-Time Garbage Collector (Experimental) [JEP-189](https://openjdk.org/jeps/189)
+- Microbenchmark Suite [JEP-230](https://openjdk.org/jeps/230)
+- Switch Expression [JEP-325](https://openjdk.org/jeps/325)
+- JVM Constants API [JEP-334](https://openjdk.org/jeps/334)
+- One AArch64 Port, Not Two [JEP-340](https://openjdk.org/jeps/340)
+- Default CDS Archives [JEP-341](https://openjdk.org/jeps/341)
+- Abortable Mixed Collections for G1 [JEP-344](https://openjdk.org/jeps/344)
+- Promptly Return Unused Committed Memory from G1 [JEP-346](https://openjdk.org/jeps/346)
