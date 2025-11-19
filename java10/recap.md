@@ -1,0 +1,13 @@
+# Java 10 new features
+
+- var keyword [JEP-286](https://openjdk.org/jeps/286)
+- JDK into Single Github Repo [JEP-296](https://openjdk.org/jeps/296)
+- Application Class-Data Sharing [JEP-310](https://openjdk.org/jeps/310)
+- Garbage-Collector Interface [JEP-304](https://openjdk.org/jeps/304)
+- Remove the Native-Header Generation Tool [JEP-313](https://openjdk.org/jeps/313)
+- Parallel Full GC for G1 [JEP-307](https://openjdk.org/jeps/307)
+- Thread-Local Handshakes [JEP-312](https://openjdk.org/jeps/312)
+- Additional Unicode Language-Tag Extension [JEP-314](https://openjdk.org/jeps/314)
+- Heap Allocation on Alternative Memory Devices [JEP-316](https://openjdk.org/jeps/316)
+- Experimental Java-Based JIT Compiler [JEP-317](https://openjdk.org/jeps/317)
+- Root Certificates [JEP-319](https://openjdk.org/jeps/319)
